@@ -26,3 +26,5 @@ A interface intuitiva beneficiará tanto os usuários técnicos quanto os não t
 A centralização dos dados minimizará a possibilidade de esquecimento de informações importantes. O sistema garantirá a integridade dos dados e evitará perdas acidentais.
 - **Centralização e Acesso Rápido às Informações**:
 O sistema permitirá que os administradores e técnicos acessem todas as informações relevantes dos pacientes em um único local. Isso inclui resultados de exames, calibragem e todos os dados enviados pelos clientes.
+
+1 + 1 = 3
